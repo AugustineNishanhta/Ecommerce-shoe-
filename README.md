@@ -5,9 +5,9 @@ the port number is :3800
 
                                                 Endpoints
 
-To get Login  to site    -                    http://localhost:3800/login
+TO LOGIN TO SITE         -                    http://localhost:3800/login
 
-TO GET Entire Product Details  -              http://localhost:3800/api
+TO GET ENTIRE PRODUCTS AS LIST  -             http://localhost:3800/api
 
 TO GET PARTICULAR PRODUCT DETAILS -           http://localhost:3800/api/{id}
 
